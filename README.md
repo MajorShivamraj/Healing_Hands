@@ -1,1 +1,3 @@
 # Healing_Hands
+Project: Healing Hands – Online Medical Consultation Platform
+Healing Hands is a comprehensive medical web platform designed to provide easy access to healthcare services through online doctor consultations. The platform enables users to consult with specialists across multiple domains including Allopathy, Homeopathy, Ayurveda, Veterinary care, Yoga, and Nutrition. Users can book appointments, schedule online meetings, and consult doctors remotely. Doctors can share digital prescriptions through the platform, and users can purchase prescribed medicines seamlessly. The project focuses on improving healthcare accessibility, efficient appointment management, and a user-friendly consultation experience.
